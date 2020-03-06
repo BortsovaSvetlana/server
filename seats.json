@@ -1,0 +1,75 @@
+{
+  "seats": {
+    "C104": [
+      {
+        "row": 4,
+        "sub_row": 0,
+        "col": 1,
+        "price": 16000,
+        "module_name": "spectators"
+      },
+      {
+        "row": 4,
+        "sub_row": 0,
+        "col": 2,
+        "price": 20000,
+        "module_name": "spectators"
+      }
+    ],
+    "D105": [
+      {
+        "row": 4,
+        "sub_row": 0,
+        "col": 1,
+        "price": 30000,
+        "module_name": "spectators"
+      },
+      {
+        "row": 4,
+        "sub_row": 0,
+        "col": 2,
+        "price": 40000,
+        "module_name": "spectators"
+      },
+      {
+        "row": 4,
+        "sub_row": 0,
+        "col": 3,
+        "price": 50000,
+        "module_name": "spectators"
+      }
+    ],
+    "Танцпартер": [
+      {
+        "row": 0,
+        "sub_row": 0,
+        "col": 0,
+        "price": 30000,
+        "module_name": "spectators"
+      },
+      {
+        "row": 0,
+        "sub_row": 0,
+        "col": 0,
+        "price": 30000,
+        "module_name": "spectators"
+      }
+    ],
+    "Фан-зона": [
+      {
+        "row": 0,
+        "sub_row": 0,
+        "col": 0,
+        "price": 20000,
+        "module_name": "spectators"
+      },
+      {
+        "row": 0,
+        "sub_row": 0,
+        "col": 0,
+        "price": 20000,
+        "module_name": "spectators"
+      }
+    ]
+  }
+}
