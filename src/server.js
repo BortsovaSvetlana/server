@@ -1,5 +1,5 @@
-let jsonSeats = require("./seats.json");
-let jsonScheme = require("./scheme.json");
+let jsonSeats = require("../data/seats.json");
+let jsonScheme = require("../data/scheme.json");
 //Самое большое различие, которое вы можете здесь заметить,
 //заключается в том, что Express по умолчанию даёт вам роутер.
 //Вам не нужно вручную разбирать URL, чтобы решить, что делать,
